@@ -33,7 +33,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/tu_usuario/tu_repositorio">
-    <img src="https://github.com/tu_usuario/tu_repositorio/assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/guillermo-gordon18-2000/LARAVEL-API-FROGRAMING/assets/83618044/d6a6ccc5-565e-4171-aa8b-a38dba503775" alt="Logo" width="80" height="80">
 </a>
   <h3 align="center">API CRUD Rápida con Spring Boot</h3>
   <p align="center">
